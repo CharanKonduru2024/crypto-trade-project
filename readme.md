@@ -172,7 +172,7 @@ Accessible on port **8501**.
 ![Strategy Balances](data/strategy_balances.png)
 
 ### Latest Predictions
-![Model Performance](data/latest_predictions.png)
+![Latest Predictions](data/latest_predictions.png)
 ```
 
 ---
@@ -321,3 +321,4 @@ http://<YOUR-DROPLET-IP>:8501
 | Exit w/o save | `:q!` |
 
 ---
+
