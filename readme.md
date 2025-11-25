@@ -166,7 +166,7 @@ Accessible on port **8501**.
 
 ```
 ### Real-time Candles
-![Realtime Candles](data/real_time_candles.png)
+![Realtime Candles](/data/real_time_candles.png)
 
 ### Strategy Balances
 ![Strategy Balances](data/strategy_balances.png)
@@ -321,4 +321,5 @@ http://<YOUR-DROPLET-IP>:8501
 | Exit w/o save | `:q!` |
 
 ---
+
 
