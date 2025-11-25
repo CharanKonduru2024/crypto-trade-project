@@ -37,8 +37,6 @@ A complete end-to-end production-style data engineering + machine learning proje
 ✔ Real-time dashboards  
 ✔ System architecture design  
 
-Perfect for **Data Engineering**, **ML Engineering**, **MLOps**, and **Quant/Trading** roles.
-
 ---
 
 # 📡 System Architecture
@@ -319,6 +317,7 @@ http://<YOUR-DROPLET-IP>:8501
 | Exit w/o save | `:q!` |
 
 ---
+
 
 
 
